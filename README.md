@@ -3,6 +3,14 @@
 CookItUp suggests recipes based on the ingredients in your fridge, making cooking easy and convenient. 
 No more wondering what to cook - find delicious recipes using the ingredients you already have.
 
+</br>
+<p align="center">
+<a href="https://apps.apple.com/app/cookitup-recipe-finder/id6466983838" target="_blank">
+<img src="Resources/Download_on_the_App_Store_Badge_US.svg" alt="App Store" width="110" />
+</a>
+</p>
+</br>
+
 <p align="center">
 <img src="Resources/Screenshot-001-light.png" width="160px">
 <img src="Resources/Screenshot-002-light.png" width="160px">
