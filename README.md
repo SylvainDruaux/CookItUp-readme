@@ -45,6 +45,7 @@ No more wondering what to cook - find delicious recipes using the ingredients yo
     * Appearance mode customization.
 
 * Other Features
+    * iCloud synchronization and Background App Refresh.
     * Responsive layout for various iOS devices.
     * Optimized URL-cached responses and recipe ID-based image caching.
     * Improved VoiceOver accessibility with accessibilityLabel and accessibilityHint.
@@ -55,7 +56,7 @@ No more wondering what to cook - find delicious recipes using the ingredients yo
 * API Integration: [Edamam](https://www.edamam.com/).
 * UX/UI: UIKit, via storyboard and code.
 * Asynchronous Operations: Concurrency (async/await) and Combine.
-* Persistent Storage and Caching: Core Data, UserDefaults, FileManager, URLCache, NSCache.
+* Persistent Storage and Caching: CloudKit, Core Data, UserDefaults, FileManager, URLCache, NSCache.
 
 ## Usage
 
