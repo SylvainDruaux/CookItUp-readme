@@ -69,7 +69,7 @@ No more wondering what to cook - find delicious recipes using the ingredients yo
 
 ## Dependency
 
-* This application uses [Alamofire 5.8+](https://cocoapods.org/pods/Alamofire)
+* This application uses [Alamofire 5.9+](https://cocoapods.org/pods/Alamofire)
 
 ## Architecture
 
